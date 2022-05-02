@@ -1,0 +1,2 @@
+# al_wp_plugin_check_duplicate_image
+WPのプラグインです。画像を複数の投稿で使用されていなかチェックするツールです。
